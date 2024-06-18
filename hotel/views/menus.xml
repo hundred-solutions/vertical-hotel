@@ -3,7 +3,7 @@
     <menuitem 
         id="hotel_management_menu" 
         name="Hotel Management" 
-        web_icon="Hotel Management,static/icon.png"
+        web_icon="hotel,static/icon.png"
     />
     <menuitem
         id="hotel_configuration_menu"
