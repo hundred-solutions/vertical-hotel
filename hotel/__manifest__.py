@@ -36,5 +36,4 @@
     "external_dependencies": {"python": ["python-dateutil"]},
     "images": ["static/description/Hotel.png"],
     "application": True,
-    "icon": ["/hotel/static/description/icon.png"],
 }
