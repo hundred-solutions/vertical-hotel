@@ -36,4 +36,5 @@
     # },
     "external_dependencies": {"python": ["dateutil"]},
     "installable": True,
+    "icon": ["/hotel_reservation/static/description/icon.png"],
 }
