@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <templates xml:space="preserve">
-    <t t-name="RoomSummary" owl="1">
+    <t t-name="RoomSummary">
         <div style="overflow:auto;">
             <table border="1" t-ref="textarea">
                 <t
